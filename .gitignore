@@ -35,13 +35,8 @@ projectFilesBackup
 /core/client/assets/css
 /core/client/assets/fonts
 /core/server/data/export/exported*
-/docs
 /_site
 /content/tmp/*
-/content/data/*
-/content/apps/**/*
-/content/themes/**/*
-/content/images/**/*
 !/content/themes/casper/**
 !/README.md
 
