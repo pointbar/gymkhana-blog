@@ -37,7 +37,7 @@ projectFilesBackup
 /core/server/data/export/exported*
 /_site
 /content/tmp/*
-/content/themes/casper
+/content/themes
 /content/data/*
 
 !/content/themes/casper/**
